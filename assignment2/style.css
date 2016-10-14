@@ -1,0 +1,125 @@
+.top{
+    background:white;
+}
+.top .container{
+    padding:2%;
+}
+
+.top .container h{
+    color:#196EA7;
+    float: right;
+    font-size:200%;
+    font-family:verdana;
+}
+
+.container{
+    padding-left: 5%;
+    padding-right: 5%
+
+}
+
+.dropbtn {
+    background-color: 	#3B4982;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #093857;
+}
+
+.DB {
+    padding-left:95%;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    right: 0;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #f1f1f1;}
+
+.show {display:block;}
+
+.line{
+    background-color:#144c9b;
+    padding:0.1%;
+}
+.line p{
+    font-size:50%;
+}
+.jumbotron img{
+    width:100%;
+}
+.jumbotron .container .list{
+    background-color:#29518e;
+}
+.jumbotron .container {
+    padding:5%;
+}
+.jumbotron .container .homeMenu a{
+    font-size:150%;
+}
+.jumbotron{
+    background-color:#639DC4;
+
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #0b69fa;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #0b7ffa;
+}
+
+.guest {
+    border-radius: 5px;
+    background-color: #cfeaff;
+    padding: 20px;
+}
+
+.commentbox {
+    border-radius: 5px;
+    background-color: #a4d1fc;
+    padding: 20px;
+}
+
+.details{
+    background-color:#024979;
+}
+.details .container p, a{
+    color:white;
+}
