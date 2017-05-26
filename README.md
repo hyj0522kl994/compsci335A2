@@ -1,5 +1,7 @@
-# compsci335A2
-Topic: Department of Computer science web page (mobile version)
+# Web page fitted in Mobile
+Topic: Department of Computer science web page (mobile version) 
+
+* Project was completed during compsci 335 courses (assignment 2)
 
 Skills: html, js, css, API call from the public resource where uni provides
  
